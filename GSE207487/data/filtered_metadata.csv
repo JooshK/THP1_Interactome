@@ -1,0 +1,17 @@
+"",characteristics,treatment,treatment.ch1
+GSM6290462,"THP-1, non-infected, rep1",non-infected,non-infected
+GSM6290463,"THP-1, non-infected, rep2",non-infected,non-infected
+GSM6290464,"THP-1, non-infected, rep3",non-infected,non-infected
+GSM6290465,"THP-1, non-infected, rep4",non-infected,non-infected
+GSM6290466,"THP-1, wild type infected, 7h, rep1",L. pneumophila WT infected,L. pneumophila WT infected
+GSM6290467,"THP-1, wild type infected, 7h, rep2",L. pneumophila WT infected,L. pneumophila WT infected
+GSM6290468,"THP-1, wild type infected, 7h, rep3",L. pneumophila WT infected,L. pneumophila WT infected
+GSM6290469,"THP-1, ∆lphD infected, 7h, rep1",L. pneumophila deltalphD infected,L. pneumophila deltalphD infected
+GSM6290470,"THP-1, ∆lphD infected, 7h, rep2",L. pneumophila deltalphD infected,L. pneumophila deltalphD infected
+GSM6290471,"THP-1, ∆lphD infected, 7h, rep3",L. pneumophila deltalphD infected,L. pneumophila deltalphD infected
+GSM6290472,"THP-1, ∆romA infected, 7h, rep1",L. pneumophila deltaromA infected,L. pneumophila deltaromA infected
+GSM6290473,"THP-1, ∆romA infected, 7h, rep2",L. pneumophila deltaromA infected,L. pneumophila deltaromA infected
+GSM6290474,"THP-1, ∆romA infected, 7h, rep3",L. pneumophila deltaromA infected,L. pneumophila deltaromA infected
+GSM6290475,"THP-1, ∆lphD∆romA infected, 7h, rep1",L. pneumophila deltalphDdeltaromA infected,L. pneumophila deltalphDdeltaromA infected
+GSM6290476,"THP-1, ∆lphD∆romA infected, 7h, rep2",L. pneumophila deltalphDdeltaromA infected,L. pneumophila deltalphDdeltaromA infected
+GSM6290477,"THP-1, ∆lphD∆romA infected, 7h, rep3",L. pneumophila deltalphDdeltaromA infected,L. pneumophila deltalphDdeltaromA infected
