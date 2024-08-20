@@ -5,6 +5,7 @@ library(tidyverse)
 library(Homo.sapiens)
 library(RColorBrewer)
 library(pheatmap)
+library(biomaRt)
 
 # Data Organization ----------------------------
 counts_matrix <- read.csv("../data/raw_counts_GRCh38_GREIS.csv") %>% 
@@ -84,7 +85,7 @@ summary(decideTests(et))
 results <- topTags(et, n = Inf)
 write.csv(results$table, file = "out/UN_vs_WT_DGE.csv", row.names = F, quote = F)
 
-# Interactive glimma figures -
+# Interactive glimma figures
 glimmaMA(et)
 glimmaVolcano(et, dge = x_nb)
 
@@ -103,8 +104,54 @@ heat_plot <- pheatmap(lcpm_norm[i,],
                       labels_col = group)
 
 
+# Exports to Pathway Analysis --------------------
+# See - Expression Map Protocol
 
+# g:Profiler - gene list
+tt_exact_test <- topTags(et,n=nrow(x))
+sig_genes = which(tt_exact_test$table$FDR < 0.05)
+length(sig_genes)
 
+topgenes_qval <- rownames(tt_exact_test$table)[sig_genes]
+head(topgenes_qval)
+write.table(topgenes_qval, "out/qval005_UNvsWT.txt", sep = "\t", row.names = F, col.names = F, quote = F)
+
+# GSEA ranks file 
+ranks_RNAseq = sign(tt_exact_test$table$logFC) * -log10(tt_exact_test$table$PValue)
+
+genenames <- tt_exact_test$table$SYMBOL
+geneids <- rownames(tt_exact_test$table$ENSEMBL)
+
+# create the ranks file
+ranks_RNAseq <- cbind(genenames, ranks_RNAseq)
+colnames(ranks_RNAseq) <- c("GeneName","rank")
+ranks_RNAseq <- ranks_RNAseq[order(as.numeric(ranks_RNAseq[,2]),decreasing = TRUE),]
+head(ranks_RNAseq) # the top2 values have pval ~ 0 so produce Inf rank
+
+write.table(ranks_RNAseq, file = "out/UNvsWT.rnk", sep = "\t", quote = F, row.names = F)
+
+# Expression Map file 
+options(RCurlOptions=list(followlocation=TRUE, postredir=2L)) # bio mart redirect 
+normalized_expression_RNAseq <- cpm(x, normalized.lib.size=TRUE)
+
+EM_expressionFile_RNAseq <- data.frame(Name = genenames, normalized_expression_RNAseq)
+rownames(EM_expressionFile_RNAseq) <- rownames(normalized_expression_RNAseq)
+
+#Add descriptions instead of geneids
+mart = useMart(biomart="ENSEMBL_MART_ENSEMBL")
+mart = useDataset(mart, dataset="hsapiens_gene_ensembl" )
+
+genes = getBM(attributes = c( 'hgnc_symbol', 'description'), filters='hgnc_symbol', 
+              values=genenames, mart=mart);
+genes$description = gsub("\\[Source.*", "", genes$description);
+
+EM_expressionFile_RNAseq <- merge(genes,EM_expressionFile_RNAseq,  
+                                  all.y=TRUE,by.x=1, by.y=1)
+colnames(EM_expressionFile_RNAseq)[1] <- "Name"
+colnames(EM_expressionFile_RNAseq)[2] <- "Description"
+head(EM_expressionFile_RNAseq)
+
+write.table(EM_expressionFile_RNAseq ,file = "out/EM_expressionFile_RNAseq.txt", sep = "\t", row.names = F, quote = F)
 
 
 
