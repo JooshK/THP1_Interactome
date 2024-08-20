@@ -4,10 +4,11 @@ library(Glimma)
 library(tidyverse)
 library(Homo.sapiens)
 library(RColorBrewer)
+library(pheatmap)
 
 # Data Organization ----------------------------
 counts_matrix <- read.csv("../data/raw_counts_GRCh38_GREIS.csv") %>% 
-  dplyr::select(c(1:5, 7:9)) %>% # compare uninfected to WT infected cells, triplicate
+  dplyr::select(c(1:5, 7:9)) |> # compare uninfected to WT infected cells, triplicate
   column_to_rownames(var = "X")
 
 group <- as.factor(c(rep("UN", 3), rep("WT", 3)))
@@ -74,5 +75,39 @@ lcpm <- cpm(x, log=TRUE)
 par(mfrow=c(1,2))
 plotMDS(lcpm, labels=group)
 title(main="Sample groups MDS")
+
+# Negative Binomial Models for Differential Expression -------------
+x <- estimateDisp(x)
+et <- exactTest(x)
+summary(decideTests(et))
+
+results <- topTags(et, n = Inf)
+write.csv(results$table, file = "out/UN_vs_WT_DGE.csv", row.names = F, quote = F)
+
+# Interactive glimma figures -
+glimmaMA(et)
+glimmaVolcano(et, dge = x_nb)
+
+# Figure 3, heatmaps
+top_genes <- topTags(et, n = 100)
+lcpm_norm <- as.data.frame(cpm(x,log=TRUE))
+
+i <- which(et$genes$ENSEMBL %in% top_genes$table$ENSEMBL)
+
+heat_plot <- pheatmap(lcpm_norm[i,], 
+                      col = brewer.pal(10, 'RdYlGn'),
+                      cluster_rows = T, cluster_cols = T, trace = "none",
+                      angle_col = 45, 
+                      fontsize_row = 6, fontsize_col = 8, show_rownames = T, 
+                      main = " Uninfected vs. WT THP1", labels_row = et$genes$SYMBOL[i], 
+                      labels_col = group)
+
+
+
+
+
+
+
+
 
 
