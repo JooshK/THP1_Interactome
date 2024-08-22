@@ -1,5 +1,4 @@
 library(edgeR)
-library(limma)
 library(Glimma)
 library(tidyverse)
 library(Homo.sapiens)
@@ -84,6 +83,8 @@ summary(decideTests(et))
 
 results <- topTags(et, n = Inf)
 write.csv(results$table, file = "out/UN_vs_WT_DGE.csv", row.names = F, quote = F)
+save(x, file = "out/DGEList_UNvsWT.Rdata")
+save(et, file = "out/exactTest_UNvsWT.Rdata")
 
 # Interactive glimma figures
 glimmaMA(et)
@@ -120,7 +121,7 @@ write.table(topgenes_qval, "out/qval005_UNvsWT.txt", sep = "\t", row.names = F, 
 ranks_RNAseq = sign(tt_exact_test$table$logFC) * -log10(tt_exact_test$table$PValue)
 
 genenames <- tt_exact_test$table$SYMBOL
-geneids <- rownames(tt_exact_test$table$ENSEMBL)
+geneids <- tt_exact_test$table$ENSEMBL
 
 # create the ranks file
 ranks_RNAseq <- cbind(genenames, ranks_RNAseq)
@@ -132,7 +133,7 @@ write.table(ranks_RNAseq, file = "out/UNvsWT.rnk", sep = "\t", quote = F, row.na
 
 # Expression Map file 
 options(RCurlOptions=list(followlocation=TRUE, postredir=2L)) # bio mart redirect 
-normalized_expression_RNAseq <- cpm(x, normalized.lib.size=TRUE)
+normalized_expression_RNAseq <- cpm(x)
 
 EM_expressionFile_RNAseq <- data.frame(Name = genenames, normalized_expression_RNAseq)
 rownames(EM_expressionFile_RNAseq) <- rownames(normalized_expression_RNAseq)
@@ -152,9 +153,6 @@ colnames(EM_expressionFile_RNAseq)[2] <- "Description"
 head(EM_expressionFile_RNAseq)
 
 write.table(EM_expressionFile_RNAseq ,file = "out/EM_expressionFile_RNAseq.txt", sep = "\t", row.names = F, quote = F)
-
-
-
 
 
 
