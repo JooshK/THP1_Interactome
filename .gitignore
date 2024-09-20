@@ -49,4 +49,4 @@ po/*~
 rsconnect/
 GSE207487/THP1_DGE/out/.DS_Store
 .DS_Store
-.DS_Store
+*.DS_Store
