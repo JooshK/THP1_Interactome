@@ -108,12 +108,12 @@ heat_plot <- pheatmap(lcpm_norm[i,],
 
 # g:Profiler - gene list
 tt_exact_test <- topTags(et,n=nrow(x))
-sig_genes = which(tt_exact_test$table$FDR < 0.05)
+sig_genes = which(tt_exact_test$table$FDR < 0.005)
 length(sig_genes)
 
 topgenes_qval <- rownames(tt_exact_test$table)[sig_genes]
 head(topgenes_qval)
-write.table(topgenes_qval, "out/qval005_UNvsWT.txt", sep = "\t", row.names = F, col.names = F, quote = F)
+write.table(topgenes_qval, "out/qval0005_UNvsWT.txt", sep = "\t", row.names = F, col.names = F, quote = F)
 
 # GSEA ranks file 
 ranks_RNAseq = sign(tt_exact_test$table$logFC) * -log10(tt_exact_test$table$PValue)
