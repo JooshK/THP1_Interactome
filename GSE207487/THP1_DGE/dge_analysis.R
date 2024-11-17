@@ -2,7 +2,6 @@ library(edgeR)
 library(Homo.sapiens)
 library(gage)
 library(pathview)
-library(SBGNview)
 
 # GO and KEGG analysis with edgeR ----------
 load("out/DGEList_UNvsWT.Rdata")
@@ -27,7 +26,6 @@ write.csv(kk, file = "out/KEGG_UNvsWT.csv")
 
 # GAGE and Pathview ------------
 data("kegg.gs") # load the kegg databases
-data("hsa_pathwayCommons_ENSEMBL")
 
 edger.fc=et$table$logFC
 names(edger.fc)=et$table$ENTREZID
@@ -49,43 +47,8 @@ pv.out.list <- sapply(path.ids2[1:3], function(pid) pathview(
   low = c("gene" = "red"), high = "green"))
 
 
-# SBGNview -----------
-load("out/exactTest_UNvsWT.Rdata") # reload exact test
-data("sbgn.xmls") # loads the sbgn xml collection
-data("pathways.info")
-
-edger.fc <- et$table$logFC
-names(edger.fc) <- rownames(et$table)
-
-ensembl.pathway <- sbgn.gsets(id.type = "ENSEMBL",
-                              mol.type = "gene",
-                              output.pathway.name = TRUE
-)
-
-# re run gage with ENSEMBL 
-degs <- gage(edger.fc, gsets = ensembl.pathway)
-up.pathways <- row.names(degs$greater)[1:10]
-up.pathways <- sapply(strsplit(up.pathways,"::"), "[", 1)
-head(up.pathways)
-
-#  SBGN view driver function
-sbgnview.obj <- SBGNview(
-  gene.data = et$table$logFC,
-  gene.id.type = "ENSEMBL",
-  input.sbgn = up.pathways[1:2],
-  output.file = "UNvsWT",
-  show.pathway.name = TRUE,
-  max.gene.value = 2,
-  min.gene.value = -2,
-  mid.gene.value = 0,
-  node.sum = "mean",
-  output.format = c("pdf")
-)
-
-
-
-
-
+plin_pathway <- pathview(gene.data = edger.fc, pathway.id = "hsa04923", 
+                         low = c("gene" = "red"), high = "green")
 
 
 

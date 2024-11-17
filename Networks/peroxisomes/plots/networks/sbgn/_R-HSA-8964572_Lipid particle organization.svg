@@ -1,0 +1,1520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1094.177249" height="990.546339"
+xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+<metadata id="metadata7">image/svg+xml</metadata>
+
+
+
+<rect
+width="170.707146"
+height="291.906455"
+rx="20.000000"
+ry="20.000000"
+x="839.470103"
+y="583.526056"
+id="endoplasmic_reticulum_membrane"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:6.000000;stroke-opacity:1.000000" />
+
+
+
+<text
+x="924.823676"
+y="555.526056"
+id="endoplasmic_reticulum_membrane"
+style="font-size:21.000000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+endoplasmic reticulum </text>
+
+
+<text
+x="924.823676"
+y="576.526056"
+id="endoplasmic_reticulum_membrane"
+style="font-size:21.000000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+membrane</text>
+
+
+<rect
+width="208.020915"
+height="287.507511"
+rx="20.000000"
+ry="20.000000"
+x="610.644570"
+y="567.351203"
+id="cytosol"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:6.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="714.655027"
+y="559.351203"
+id="cytosol"
+style="font-size:21.000000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+cytosol</text>
+
+
+<rect
+width="460.063604"
+height="543.473893"
+rx="20.000000"
+ry="20.000000"
+x="105.500000"
+y="374.700000"
+id="lipid_particle"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:6.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="335.531802"
+y="366.700000"
+id="lipid_particle"
+style="font-size:42.325852px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+lipid particle</text>
+
+
+
+<path
+d="M 261.393214273898 765.17389275849 261.393214273898 857.67389275849 269.393214273898 865.67389275849 413.143214273897 865.67389275849 421.143214273897 857.67389275849 421.143214273897 765.17389275849 413.143214273897 757.17389275849 269.393214273898 757.17389275849 Z"
+id="Complex_5037e10bf95e40f53734e988163afd2f"
+style="fill:white;fill-opacity:0.600000;stroke-width:3.000000;stroke:black;stroke-opacity:1.000000"
+transform = "rotate(0.000000 0.000000 0.000000)"
+/>
+
+
+<text
+x="341.268214"
+y="749.173893"
+id="Complex_5037e10bf95e40f53734e988163afd2f"
+style="font-size:15.180000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+HILPDA:lipid droplet</text>
+
+
+<path
+d="M 111 497.303773345694 111 629.803773345694 119 637.803773345694 262.75 637.803773345694 270.75 629.803773345694 270.75 497.303773345694 262.75 489.303773345694 119 489.303773345694 Z"
+id="Complex_9dd397f7c9f2cf56732835840ef3937e"
+style="fill:white;fill-opacity:0.600000;stroke-width:3.000000;stroke:black;stroke-opacity:1.000000"
+transform = "rotate(0.000000 0.000000 0.000000)"
+/>
+
+
+<text
+x="190.875000"
+y="481.303773"
+id="Complex_9dd397f7c9f2cf56732835840ef3937e"
+style="font-size:15.180000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+CIDEA:CIDEC:lipid droplet</text>
+
+
+<path
+d="M 327.303141874437 567.102430620704 327.303141874437 699.602430620704 335.303141874437 707.602430620704 400.303141874437 707.602430620704 408.303141874437 699.602430620704 408.303141874437 567.102430620704 400.303141874437 559.102430620704 335.303141874437 559.102430620704 Z"
+id="Complex_5f083008259e6da6eb18995483ad6ed2"
+style="fill:white;fill-opacity:0.600000;stroke-width:3.000000;stroke:black;stroke-opacity:1.000000"
+transform = "rotate(0.000000 0.000000 0.000000)"
+/>
+
+
+<text
+x="367.803142"
+y="551.102431"
+id="Complex_5f083008259e6da6eb18995483ad6ed2"
+style="font-size:15.180000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+lipid droplet</text>
+
+
+<path
+d="M 389.313603831544 388.2 389.313603831544 480.7 397.313603831544 488.7 541.063603831544 488.7 549.063603831544 480.7 549.063603831544 388.2 541.063603831544 380.2 397.313603831544 380.2 Z"
+id="Complex_7e2893a8c9ee70f9a7c13fb81a5e8250"
+style="fill:white;fill-opacity:0.600000;stroke-width:3.000000;stroke:black;stroke-opacity:1.000000"
+transform = "rotate(0.000000 0.000000 0.000000)"
+/>
+
+
+<text
+x="469.188604"
+y="372.200000"
+id="Complex_7e2893a8c9ee70f9a7c13fb81a5e8250"
+style="font-size:15.180000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+HSD17B13:lipid droplet</text>
+
+
+<path
+d="M 616.144569533983 580.851203350048 616.144569533983 673.351203350048 624.144569533983 681.351203350048 689.144569533983 681.351203350048 697.144569533983 673.351203350048 697.144569533983 580.851203350048 689.144569533983 572.851203350048 624.144569533983 572.851203350048 Z"
+id="Complex_4692e901a4c658767ba3e7efee31c3fc"
+style="fill:white;fill-opacity:0.600000;stroke-width:3.000000;stroke:black;stroke-opacity:1.000000"
+transform = "rotate(0.000000 0.000000 0.000000)"
+/>
+
+
+<text
+x="656.644570"
+y="564.851203"
+id="Complex_4692e901a4c658767ba3e7efee31c3fc"
+style="font-size:15.180000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+CIDEA:CIDEC</text>
+
+
+<path
+d="M 918.177249435704 597.026055547302 918.177249435704 680.776055547302 926.177249435704 688.776055547302 991.177249435704 688.776055547302 999.177249435704 680.776055547302 999.177249435704 597.026055547302 991.177249435704 589.026055547302 926.177249435704 589.026055547302 Z"
+id="Complex_ef831bcfdc6ab3c1c61ad8906768009b"
+style="fill:white;fill-opacity:0.600000;stroke-width:3.000000;stroke:black;stroke-opacity:1.000000"
+transform = "rotate(0.000000 0.000000 0.000000)"
+/>
+
+
+<text
+x="958.677249"
+y="581.026056"
+id="Complex_ef831bcfdc6ab3c1c61ad8906768009b"
+style="font-size:15.180000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+(FITM1,FITM2):TAGs</text>
+
+
+
+
+<ellipse
+rx="20.000000"
+ry="20.000000"
+cx="365.643214"
+cy="782.673893"
+id="SmallMolecule_a5bbee45d57859c4741ff1d2ba3d58dc_Complex_5037e10bf95e40f53734e988163afd2f"
+style="fill:white;fill-opacity:0.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="365.643214"
+y="787.931036"
+id="SmallMolecule_a5bbee45d57859c4741ff1d2ba3d58dc_Complex_5037e10bf95e40f53734e988163afd2f"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+PL</text>
+
+
+
+<ellipse
+rx="20.000000"
+ry="20.000000"
+cx="286.893214"
+cy="782.673893"
+id="SmallMolecule_409a58f634858c036c87224f031e6c10_Complex_5037e10bf95e40f53734e988163afd2f"
+style="fill:white;fill-opacity:0.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="286.893214"
+y="787.931036"
+id="SmallMolecule_409a58f634858c036c87224f031e6c10_Complex_5037e10bf95e40f53734e988163afd2f"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+CHEST</text>
+
+
+
+<rect
+width="70.000000"
+height="40.000000"
+rx="4.000000"
+ry="4.000000"
+x="345.643214"
+y="820.173893"
+id="Protein_a615d628cd07b1fcc71a435e1871d9ed_Complex_5037e10bf95e40f53734e988163afd2f"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="380.643214"
+y="845.431036"
+id="Protein_a615d628cd07b1fcc71a435e1871d9ed_Complex_5037e10bf95e40f53734e988163afd2f"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+HILPDA</text>
+
+
+<ellipse
+rx="17.500000"
+ry="8.750000"
+cx="363.143214"
+cy="820.173893"
+id="Protein_a615d628cd07b1fcc71a435e1871d9ed_Complex_5037e10bf95e40f53734e988163afd2f.info.1"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="363.143214"
+y="822.473893"
+id="Protein_a615d628cd07b1fcc71a435e1871d9ed_Complex_5037e10bf95e40f53734e988163afd2f.info.1"
+style="font-size:6.900000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+x[1-63]</text>
+
+
+
+<ellipse
+rx="20.000000"
+ry="20.000000"
+cx="286.893214"
+cy="831.423893"
+id="SmallMolecule_7f3dfdd7a4bf2b52a502bc341b009f4c_Complex_5037e10bf95e40f53734e988163afd2f"
+style="fill:white;fill-opacity:0.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="286.893214"
+y="836.681036"
+id="SmallMolecule_7f3dfdd7a4bf2b52a502bc341b009f4c_Complex_5037e10bf95e40f53734e988163afd2f"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+TAG</text>
+
+
+
+<ellipse
+rx="20.000000"
+ry="20.000000"
+cx="215.250000"
+cy="514.803773"
+id="SmallMolecule_a5bbee45d57859c4741ff1d2ba3d58dc_Complex_9dd397f7c9f2cf56732835840ef3937e"
+style="fill:white;fill-opacity:0.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="215.250000"
+y="520.060916"
+id="SmallMolecule_a5bbee45d57859c4741ff1d2ba3d58dc_Complex_9dd397f7c9f2cf56732835840ef3937e"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+PL</text>
+
+
+
+<rect
+width="70.000000"
+height="40.000000"
+rx="4.000000"
+ry="4.000000"
+x="116.500000"
+y="494.803773"
+id="Protein_ccc77a1c07d8f65a0124ece5351ef0a5_Complex_9dd397f7c9f2cf56732835840ef3937e"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="151.500000"
+y="520.060916"
+id="Protein_ccc77a1c07d8f65a0124ece5351ef0a5_Complex_9dd397f7c9f2cf56732835840ef3937e"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+CIDEA</text>
+
+
+<ellipse
+rx="17.500000"
+ry="8.750000"
+cx="134.000000"
+cy="494.803773"
+id="Protein_ccc77a1c07d8f65a0124ece5351ef0a5_Complex_9dd397f7c9f2cf56732835840ef3937e.info.1"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="134.000000"
+y="497.103773"
+id="Protein_ccc77a1c07d8f65a0124ece5351ef0a5_Complex_9dd397f7c9f2cf56732835840ef3937e.info.1"
+style="font-size:6.900000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+x[1-219]</text>
+
+
+
+<ellipse
+rx="20.000000"
+ry="20.000000"
+cx="215.250000"
+cy="563.553773"
+id="SmallMolecule_409a58f634858c036c87224f031e6c10_Complex_9dd397f7c9f2cf56732835840ef3937e"
+style="fill:white;fill-opacity:0.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="215.250000"
+y="568.810916"
+id="SmallMolecule_409a58f634858c036c87224f031e6c10_Complex_9dd397f7c9f2cf56732835840ef3937e"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+CHEST</text>
+
+
+
+<rect
+width="70.000000"
+height="40.000000"
+rx="4.000000"
+ry="4.000000"
+x="116.500000"
+y="552.303773"
+id="Protein_e960d5c4cef382727202532ab7e83932_Complex_9dd397f7c9f2cf56732835840ef3937e"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="151.500000"
+y="577.560916"
+id="Protein_e960d5c4cef382727202532ab7e83932_Complex_9dd397f7c9f2cf56732835840ef3937e"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+CIDEC</text>
+
+
+<ellipse
+rx="17.500000"
+ry="8.750000"
+cx="134.000000"
+cy="552.303773"
+id="Protein_e960d5c4cef382727202532ab7e83932_Complex_9dd397f7c9f2cf56732835840ef3937e.info.1"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="134.000000"
+y="554.603773"
+id="Protein_e960d5c4cef382727202532ab7e83932_Complex_9dd397f7c9f2cf56732835840ef3937e.info.1"
+style="font-size:6.900000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+x[1-238]</text>
+
+
+
+<ellipse
+rx="20.000000"
+ry="20.000000"
+cx="215.250000"
+cy="612.303773"
+id="SmallMolecule_7f3dfdd7a4bf2b52a502bc341b009f4c_Complex_9dd397f7c9f2cf56732835840ef3937e"
+style="fill:white;fill-opacity:0.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="215.250000"
+y="617.560916"
+id="SmallMolecule_7f3dfdd7a4bf2b52a502bc341b009f4c_Complex_9dd397f7c9f2cf56732835840ef3937e"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+TAG</text>
+
+
+
+<ellipse
+rx="20.000000"
+ry="20.000000"
+cx="352.803142"
+cy="584.602431"
+id="SmallMolecule_a5bbee45d57859c4741ff1d2ba3d58dc_Complex_5f083008259e6da6eb18995483ad6ed2"
+style="fill:white;fill-opacity:0.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="352.803142"
+y="589.859573"
+id="SmallMolecule_a5bbee45d57859c4741ff1d2ba3d58dc_Complex_5f083008259e6da6eb18995483ad6ed2"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+PL</text>
+
+
+
+<ellipse
+rx="20.000000"
+ry="20.000000"
+cx="352.803142"
+cy="633.352431"
+id="SmallMolecule_409a58f634858c036c87224f031e6c10_Complex_5f083008259e6da6eb18995483ad6ed2"
+style="fill:white;fill-opacity:0.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="352.803142"
+y="638.609573"
+id="SmallMolecule_409a58f634858c036c87224f031e6c10_Complex_5f083008259e6da6eb18995483ad6ed2"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+CHEST</text>
+
+
+
+<ellipse
+rx="20.000000"
+ry="20.000000"
+cx="352.803142"
+cy="682.102431"
+id="SmallMolecule_7f3dfdd7a4bf2b52a502bc341b009f4c_Complex_5f083008259e6da6eb18995483ad6ed2"
+style="fill:white;fill-opacity:0.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="352.803142"
+y="687.359573"
+id="SmallMolecule_7f3dfdd7a4bf2b52a502bc341b009f4c_Complex_5f083008259e6da6eb18995483ad6ed2"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+TAG</text>
+
+
+
+<ellipse
+rx="20.000000"
+ry="20.000000"
+cx="493.563604"
+cy="405.700000"
+id="SmallMolecule_a5bbee45d57859c4741ff1d2ba3d58dc_Complex_7e2893a8c9ee70f9a7c13fb81a5e8250"
+style="fill:white;fill-opacity:0.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="493.563604"
+y="410.957143"
+id="SmallMolecule_a5bbee45d57859c4741ff1d2ba3d58dc_Complex_7e2893a8c9ee70f9a7c13fb81a5e8250"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+PL</text>
+
+
+
+<ellipse
+rx="20.000000"
+ry="20.000000"
+cx="414.813604"
+cy="405.700000"
+id="SmallMolecule_409a58f634858c036c87224f031e6c10_Complex_7e2893a8c9ee70f9a7c13fb81a5e8250"
+style="fill:white;fill-opacity:0.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="414.813604"
+y="410.957143"
+id="SmallMolecule_409a58f634858c036c87224f031e6c10_Complex_7e2893a8c9ee70f9a7c13fb81a5e8250"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+CHEST</text>
+
+
+
+<ellipse
+rx="20.000000"
+ry="20.000000"
+cx="493.563604"
+cy="454.450000"
+id="SmallMolecule_7f3dfdd7a4bf2b52a502bc341b009f4c_Complex_7e2893a8c9ee70f9a7c13fb81a5e8250"
+style="fill:white;fill-opacity:0.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="493.563604"
+y="459.707143"
+id="SmallMolecule_7f3dfdd7a4bf2b52a502bc341b009f4c_Complex_7e2893a8c9ee70f9a7c13fb81a5e8250"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+TAG</text>
+
+
+
+<rect
+width="70.000000"
+height="40.000000"
+rx="4.000000"
+ry="4.000000"
+x="394.813604"
+y="443.200000"
+id="Protein_425af65e140cdb8fbe8fd2c32ae4389d_Complex_7e2893a8c9ee70f9a7c13fb81a5e8250"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="429.813604"
+y="468.457143"
+id="Protein_425af65e140cdb8fbe8fd2c32ae4389d_Complex_7e2893a8c9ee70f9a7c13fb81a5e8250"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+HSD17B13</text>
+
+
+<ellipse
+rx="17.500000"
+ry="8.750000"
+cx="412.313604"
+cy="443.200000"
+id="Protein_425af65e140cdb8fbe8fd2c32ae4389d_Complex_7e2893a8c9ee70f9a7c13fb81a5e8250.info.1"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="412.313604"
+y="445.500000"
+id="Protein_425af65e140cdb8fbe8fd2c32ae4389d_Complex_7e2893a8c9ee70f9a7c13fb81a5e8250.info.1"
+style="font-size:6.900000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+x[20-300]</text>
+
+
+<rect
+width="26.666667"
+height="26.666667"
+rx="0.000000"
+ry="0.000000"
+x="491.723870"
+y="546.543210"
+id="reactome_R-HSA-8862380_LEFT_TO_RIGHT"
+style="fill:white;fill-opacity:0.600000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+
+<text
+x="505.057203"
+y="560.643210"
+id="reactome_R-HSA-8862380_LEFT_TO_RIGHT"
+style="font-size:2.300000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+</text>
+
+
+<rect
+width="26.666667"
+height="26.666667"
+rx="0.000000"
+ry="0.000000"
+x="508.525602"
+y="611.924186"
+id="reactome_R-HSA-8856630_LEFT_TO_RIGHT"
+style="fill:white;fill-opacity:0.600000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+
+<text
+x="521.858935"
+y="626.024186"
+id="reactome_R-HSA-8856630_LEFT_TO_RIGHT"
+style="font-size:2.300000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+</text>
+
+
+<rect
+width="26.666667"
+height="26.666667"
+rx="0.000000"
+ry="0.000000"
+x="509.151075"
+y="689.239816"
+id="reactome_R-HSA-8858270_LEFT_TO_RIGHT"
+style="fill:white;fill-opacity:0.600000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+
+<text
+x="522.484408"
+y="703.339816"
+id="reactome_R-HSA-8858270_LEFT_TO_RIGHT"
+style="font-size:2.300000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+</text>
+
+
+
+<ellipse
+rx="20.000000"
+ry="20.000000"
+cx="747.720255"
+cy="800.358714"
+id="SmallMolecule_1cb8e121b06034132a141231ea09572a"
+style="fill:white;fill-opacity:0.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="747.720255"
+y="805.615857"
+id="SmallMolecule_1cb8e121b06034132a141231ea09572a"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+TAG</text>
+
+
+
+<rect
+width="70.000000"
+height="40.000000"
+rx="4.000000"
+ry="4.000000"
+x="732.165484"
+y="702.774660"
+id="Protein_a615d628cd07b1fcc71a435e1871d9ed"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="767.165484"
+y="728.031803"
+id="Protein_a615d628cd07b1fcc71a435e1871d9ed"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+HILPDA</text>
+
+
+<ellipse
+rx="17.500000"
+ry="8.750000"
+cx="749.665484"
+cy="702.774660"
+id="Protein_a615d628cd07b1fcc71a435e1871d9ed.info.1"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="749.665484"
+y="705.074660"
+id="Protein_a615d628cd07b1fcc71a435e1871d9ed.info.1"
+style="font-size:6.900000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+x[1-63]</text>
+
+
+
+<rect
+width="70.000000"
+height="40.000000"
+rx="4.000000"
+ry="4.000000"
+x="719.676090"
+y="630.633634"
+id="Protein_425af65e140cdb8fbe8fd2c32ae4389d"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="754.676090"
+y="655.890777"
+id="Protein_425af65e140cdb8fbe8fd2c32ae4389d"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+HSD17B13</text>
+
+
+<ellipse
+rx="17.500000"
+ry="8.750000"
+cx="737.176090"
+cy="630.633634"
+id="Protein_425af65e140cdb8fbe8fd2c32ae4389d.info.1"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="737.176090"
+y="632.933634"
+id="Protein_425af65e140cdb8fbe8fd2c32ae4389d.info.1"
+style="font-size:6.900000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+x[20-300]</text>
+
+
+
+<rect
+width="70.000000"
+height="40.000000"
+rx="4.000000"
+ry="4.000000"
+x="621.644570"
+y="578.351203"
+id="Protein_ccc77a1c07d8f65a0124ece5351ef0a5_Complex_4692e901a4c658767ba3e7efee31c3fc"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="656.644570"
+y="603.608346"
+id="Protein_ccc77a1c07d8f65a0124ece5351ef0a5_Complex_4692e901a4c658767ba3e7efee31c3fc"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+CIDEA</text>
+
+
+<ellipse
+rx="17.500000"
+ry="8.750000"
+cx="639.144570"
+cy="578.351203"
+id="Protein_ccc77a1c07d8f65a0124ece5351ef0a5_Complex_4692e901a4c658767ba3e7efee31c3fc.info.1"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="639.144570"
+y="580.651203"
+id="Protein_ccc77a1c07d8f65a0124ece5351ef0a5_Complex_4692e901a4c658767ba3e7efee31c3fc.info.1"
+style="font-size:6.900000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+x[1-219]</text>
+
+
+
+<rect
+width="70.000000"
+height="40.000000"
+rx="4.000000"
+ry="4.000000"
+x="621.644570"
+y="635.851203"
+id="Protein_e960d5c4cef382727202532ab7e83932_Complex_4692e901a4c658767ba3e7efee31c3fc"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="656.644570"
+y="661.108346"
+id="Protein_e960d5c4cef382727202532ab7e83932_Complex_4692e901a4c658767ba3e7efee31c3fc"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+CIDEC</text>
+
+
+<ellipse
+rx="17.500000"
+ry="8.750000"
+cx="639.144570"
+cy="635.851203"
+id="Protein_e960d5c4cef382727202532ab7e83932_Complex_4692e901a4c658767ba3e7efee31c3fc.info.1"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="639.144570"
+y="638.151203"
+id="Protein_e960d5c4cef382727202532ab7e83932_Complex_4692e901a4c658767ba3e7efee31c3fc.info.1"
+style="font-size:6.900000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+x[1-238]</text>
+
+
+
+<ellipse
+rx="20.000000"
+ry="20.000000"
+cx="943.677249"
+cy="614.526056"
+id="SmallMolecule_1cb8e121b06034132a141231ea09572a_Complex_ef831bcfdc6ab3c1c61ad8906768009b"
+style="fill:white;fill-opacity:0.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="943.677249"
+y="619.783198"
+id="SmallMolecule_1cb8e121b06034132a141231ea09572a_Complex_ef831bcfdc6ab3c1c61ad8906768009b"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+TAG</text>
+
+
+
+<rect
+width="70.000000"
+height="40.000000"
+rx="4.000000"
+ry="4.000000"
+x="923.677249"
+y="643.276056"
+id="Protein_186a6163f34873470584eee53aae0758_Complex_ef831bcfdc6ab3c1c61ad8906768009b"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="958.677249"
+y="668.533198"
+id="Protein_186a6163f34873470584eee53aae0758_Complex_ef831bcfdc6ab3c1c61ad8906768009b"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+FITM1,FITM2</text>
+
+
+
+<rect
+width="70.000000"
+height="40.000000"
+rx="4.000000"
+ry="4.000000"
+x="850.470103"
+y="782.932510"
+id="Protein_186a6163f34873470584eee53aae0758"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="885.470103"
+y="808.189653"
+id="Protein_186a6163f34873470584eee53aae0758"
+style="font-size:15.771429px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+FITM1,FITM2</text>
+
+
+<rect
+width="26.666667"
+height="26.666667"
+rx="0.000000"
+ry="0.000000"
+x="853.198099"
+y="706.243248"
+id="reactome_R-HSA-8857686_LEFT_TO_RIGHT"
+style="fill:white;fill-opacity:0.600000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+
+<text
+x="866.531432"
+y="720.343248"
+id="reactome_R-HSA-8857686_LEFT_TO_RIGHT"
+style="font-size:2.300000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+</text>
+
+
+
+<rect
+width="186.735450"
+height="20.748383"
+rx="2.074838"
+ry="2.074838"
+x="20.000000"
+y="890.173893"
+id="stamp"
+style="fill:white;fill-opacity:1.000000;stroke:black;stroke-width:1.000000;stroke-opacity:1.000000" />
+
+
+<text
+x="113.367725"
+y="904.697761"
+id="stamp"
+style="font-size:12.449030px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+SBGNhub Pathway Collection</text>
+
+
+
+
+<line
+x1="588" y1="625.2" x2="615" y2="626.2"
+id="Complex_4692e901a4c658767ba3e7efee31c3fc--to--reactome_R-HSA-8856630_LEFT_TO_RIGHT:source.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+<path d="M535.000000 625.2 C 553.000000 625.2, 588.000000 625.2,615.000000 626.2" stroke="black" stroke-opacity="1" stroke-width="2" fill-opacity="0" fill="transparent"/>
+
+<line
+x1="553" y1="625.2" x2="535" y2="625.2"
+id="Complex_4692e901a4c658767ba3e7efee31c3fc--to--reactome_R-HSA-8856630_LEFT_TO_RIGHT:target.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+
+
+<line
+x1="489" y1="721.2" x2="508" y2="710.2"
+id="reactome_R-HSA-8858270_LEFT_TO_RIGHT--to--Complex_5037e10bf95e40f53734e988163afd2f:source.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+<path d="M421.000000 763.2 C 454.000000 743.2, 489.000000 721.2,508.000000 710.2" stroke="black" stroke-opacity="1" stroke-width="2" fill-opacity="0" fill="transparent"/>
+
+<line
+x1="454" y1="743.2" x2="421" y2="763.2"
+id="reactome_R-HSA-8858270_LEFT_TO_RIGHT--to--Complex_5037e10bf95e40f53734e988163afd2f:target.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+
+<polygon
+points = "421,763.2 409,757.2 409,769.2"
+id="line"
+style="fill:black; stroke:black; stroke-opacity:1; stroke-width:1.000000"
+transform = "rotate(148.781597 421.000000 763.200000)"
+/>
+
+
+
+<line
+x1="436" y1="596.2" x2="408" y2="611.2"
+id="Complex_5f083008259e6da6eb18995483ad6ed2--to--reactome_R-HSA-8862380_LEFT_TO_RIGHT:source.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+<path d="M408.000000 611.2 C 436.000000 596.2, 472.000000 577.2,491.000000 566.2" stroke="black" stroke-opacity="1" stroke-width="2" fill-opacity="0" fill="transparent"/>
+
+<line
+x1="472" y1="577.2" x2="491" y2="566.2"
+id="Complex_5f083008259e6da6eb18995483ad6ed2--to--reactome_R-HSA-8862380_LEFT_TO_RIGHT:target.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+
+
+<line
+x1="441" y1="629.2" x2="408" y2="631.2"
+id="Complex_5f083008259e6da6eb18995483ad6ed2--to--reactome_R-HSA-8856630_LEFT_TO_RIGHT:source.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+<path d="M408.000000 631.2 C 441.000000 629.2, 486.000000 626.2,508.000000 625.2" stroke="black" stroke-opacity="1" stroke-width="2" fill-opacity="0" fill="transparent"/>
+
+<line
+x1="486" y1="626.2" x2="508" y2="625.2"
+id="Complex_5f083008259e6da6eb18995483ad6ed2--to--reactome_R-HSA-8856630_LEFT_TO_RIGHT:target.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+
+
+<line
+x1="739" y1="610.2" x2="747" y2="630.2"
+id="Protein_425af65e140cdb8fbe8fd2c32ae4389d--to--reactome_R-HSA-8862380_LEFT_TO_RIGHT:source.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+<path d="M518.000000 556.2 C 551.000000 549.2, 640.000000 535.2,700.000000 569.2" stroke="black" stroke-opacity="1" stroke-width="2" fill-opacity="0" fill="transparent"/>
+<path d="M700.000000 569.2 C 723.000000 582.2, 739.000000 610.2,747.000000 630.2" stroke="black" stroke-opacity="1" stroke-width="2" fill-opacity="0" fill="transparent"/>
+
+<line
+x1="551" y1="549.2" x2="518" y2="556.2"
+id="Protein_425af65e140cdb8fbe8fd2c32ae4389d--to--reactome_R-HSA-8862380_LEFT_TO_RIGHT:target.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+
+
+<line
+x1="441" y1="666.2" x2="408" y2="651.2"
+id="Complex_5f083008259e6da6eb18995483ad6ed2--to--reactome_R-HSA-8858270_LEFT_TO_RIGHT:source.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+<path d="M408.000000 651.2 C 441.000000 666.2, 486.000000 686.2,509.000000 696.2" stroke="black" stroke-opacity="1" stroke-width="2" fill-opacity="0" fill="transparent"/>
+
+<line
+x1="486" y1="686.2" x2="509" y2="696.2"
+id="Complex_5f083008259e6da6eb18995483ad6ed2--to--reactome_R-HSA-8858270_LEFT_TO_RIGHT:target.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+
+
+<line
+x1="792" y1="769.2" x2="767" y2="786.2"
+id="SmallMolecule_1cb8e121b06034132a141231ea09572a--to--reactome_R-HSA-8857686_LEFT_TO_RIGHT:source.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+<path d="M767.000000 786.2 C 792.000000 769.2, 832.000000 742.2,852.000000 728.2" stroke="black" stroke-opacity="1" stroke-width="2" fill-opacity="0" fill="transparent"/>
+
+<line
+x1="832" y1="742.2" x2="852" y2="728.2"
+id="SmallMolecule_1cb8e121b06034132a141231ea09572a--to--reactome_R-HSA-8857686_LEFT_TO_RIGHT:target.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+
+
+<line
+x1="488" y1="595.2" x2="508" y2="612.2"
+id="reactome_R-HSA-8856630_LEFT_TO_RIGHT--to--Complex_9dd397f7c9f2cf56732835840ef3937e:source.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+<path d="M270.000000 548.2 C 313.000000 543.2, 366.000000 542.2,411.000000 555.2" stroke="black" stroke-opacity="1" stroke-width="2" fill-opacity="0" fill="transparent"/>
+<path d="M411.000000 555.2 C 450.000000 566.2, 488.000000 595.2,508.000000 612.2" stroke="black" stroke-opacity="1" stroke-width="2" fill-opacity="0" fill="transparent"/>
+
+<line
+x1="313" y1="543.2" x2="270" y2="548.2"
+id="reactome_R-HSA-8856630_LEFT_TO_RIGHT--to--Complex_9dd397f7c9f2cf56732835840ef3937e:target.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+
+<polygon
+points = "270,548.2 258,542.2 258,554.2"
+id="line"
+style="fill:black; stroke:black; stroke-opacity:1; stroke-width:1.000000"
+transform = "rotate(173.367485 270.000000 548.200000)"
+/>
+
+
+
+<line
+x1="676" y1="715.2" x2="731" y2="719.2"
+id="Protein_a615d628cd07b1fcc71a435e1871d9ed--to--reactome_R-HSA-8858270_LEFT_TO_RIGHT:source.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+<path d="M535.000000 703.2 C 572.000000 706.2, 676.000000 715.2,731.000000 719.2" stroke="black" stroke-opacity="1" stroke-width="2" fill-opacity="0" fill="transparent"/>
+
+<line
+x1="572" y1="706.2" x2="535" y2="703.2"
+id="Protein_a615d628cd07b1fcc71a435e1871d9ed--to--reactome_R-HSA-8858270_LEFT_TO_RIGHT:target.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+
+
+<line
+x1="497" y1="532.2" x2="501" y2="546.2"
+id="reactome_R-HSA-8862380_LEFT_TO_RIGHT--to--Complex_7e2893a8c9ee70f9a7c13fb81a5e8250:source.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+<path d="M484.000000 488.2 C 490.000000 509.2, 497.000000 532.2,501.000000 546.2" stroke="black" stroke-opacity="1" stroke-width="2" fill-opacity="0" fill="transparent"/>
+
+<line
+x1="490" y1="509.2" x2="484" y2="488.2"
+id="reactome_R-HSA-8862380_LEFT_TO_RIGHT--to--Complex_7e2893a8c9ee70f9a7c13fb81a5e8250:target.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+
+<polygon
+points = "484,488.2 472,482.2 472,494.2"
+id="line"
+style="fill:black; stroke:black; stroke-opacity:1; stroke-width:1.000000"
+transform = "rotate(254.054604 484.000000 488.200000)"
+/>
+
+
+
+<line
+x1="877" y1="767.2" x2="880" y2="782.2"
+id="Protein_186a6163f34873470584eee53aae0758--to--reactome_R-HSA-8857686_LEFT_TO_RIGHT:source.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+<path d="M880.000000 782.2 C 877.000000 767.2, 872.000000 746.2,869.000000 733.2" stroke="black" stroke-opacity="1" stroke-width="2" fill-opacity="0" fill="transparent"/>
+
+<line
+x1="872" y1="746.2" x2="869" y2="733.2"
+id="Protein_186a6163f34873470584eee53aae0758--to--reactome_R-HSA-8857686_LEFT_TO_RIGHT:target.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+
+
+<line
+x1="889" y1="698.2" x2="879" y2="707.2"
+id="reactome_R-HSA-8857686_LEFT_TO_RIGHT--to--Complex_ef831bcfdc6ab3c1c61ad8906768009b:source.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+<path d="M917.000000 674.2 C 904.000000 686.2, 889.000000 698.2,879.000000 707.2" stroke="black" stroke-opacity="1" stroke-width="2" fill-opacity="0" fill="transparent"/>
+
+<line
+x1="904" y1="686.2" x2="917" y2="674.2"
+id="reactome_R-HSA-8857686_LEFT_TO_RIGHT--to--Complex_ef831bcfdc6ab3c1c61ad8906768009b:target.arc"
+style="stroke:black;stroke-width:4.000000;stroke-opacity:0.000000" />
+
+
+<polygon
+points = "917,674.2 905,668.2 905,680.2"
+id="line"
+style="fill:black; stroke:black; stroke-opacity:1; stroke-width:1.000000"
+transform = "rotate(-42.709390 917.000000 674.200000)"
+/>
+
+
+
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="1001.777249"
+y="80.000000"
+id="col.pan"
+style="fill:#00FF00;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="993.377249"
+y="80.000000"
+id="col.pan"
+style="fill:#13F913;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="984.977249"
+y="80.000000"
+id="col.pan"
+style="fill:#26F226;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="976.577249"
+y="80.000000"
+id="col.pan"
+style="fill:#39EC39;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="968.177249"
+y="80.000000"
+id="col.pan"
+style="fill:#4CE54C;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="959.777249"
+y="80.000000"
+id="col.pan"
+style="fill:#5FDF5F;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="951.377249"
+y="80.000000"
+id="col.pan"
+style="fill:#72D872;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="942.977249"
+y="80.000000"
+id="col.pan"
+style="fill:#85D285;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="934.577249"
+y="80.000000"
+id="col.pan"
+style="fill:#98CB98;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="926.177249"
+y="80.000000"
+id="col.pan"
+style="fill:#ABC5AB;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="917.777249"
+y="80.000000"
+id="col.pan"
+style="fill:#BEBEBE;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="909.377249"
+y="80.000000"
+id="col.pan"
+style="fill:#C5ABAB;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="900.977249"
+y="80.000000"
+id="col.pan"
+style="fill:#CB9898;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="892.577249"
+y="80.000000"
+id="col.pan"
+style="fill:#D28585;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="884.177249"
+y="80.000000"
+id="col.pan"
+style="fill:#D87272;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="875.777249"
+y="80.000000"
+id="col.pan"
+style="fill:#DF5F5F;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="867.377249"
+y="80.000000"
+id="col.pan"
+style="fill:#E54C4C;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="858.977249"
+y="80.000000"
+id="col.pan"
+style="fill:#EC3939;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="850.577249"
+y="80.000000"
+id="col.pan"
+style="fill:#F22626;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="842.177249"
+y="80.000000"
+id="col.pan"
+style="fill:#F91313;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<rect
+width="9.400000"
+height="24.000000"
+rx="0.000000"
+ry="0.000000"
+x="833.777249"
+y="80.000000"
+id="col.pan"
+style="fill:#FF0000;fill-opacity:1.000000;stroke:black;stroke-width:0.000000;stroke-opacity:0.000000" />
+
+
+<line
+x1="833.777249435704" y1="80" x2="833.777249435704" y2="110"
+id="tick"
+style="stroke:black;stroke-width:3.360000;stroke-opacity:1.000000" />
+
+
+<line
+x1="851.417249435704" y1="80" x2="851.417249435704" y2="110"
+id="tick"
+style="stroke:black;stroke-width:3.360000;stroke-opacity:1.000000" />
+
+
+<line
+x1="869.057249435704" y1="80" x2="869.057249435704" y2="110"
+id="tick"
+style="stroke:black;stroke-width:3.360000;stroke-opacity:1.000000" />
+
+
+<line
+x1="886.697249435704" y1="80" x2="886.697249435704" y2="110"
+id="tick"
+style="stroke:black;stroke-width:3.360000;stroke-opacity:1.000000" />
+
+
+<line
+x1="904.337249435704" y1="80" x2="904.337249435704" y2="110"
+id="tick"
+style="stroke:black;stroke-width:3.360000;stroke-opacity:1.000000" />
+
+
+<line
+x1="921.977249435704" y1="80" x2="921.977249435704" y2="110"
+id="tick"
+style="stroke:black;stroke-width:3.360000;stroke-opacity:1.000000" />
+
+
+<line
+x1="939.617249435704" y1="80" x2="939.617249435704" y2="110"
+id="tick"
+style="stroke:black;stroke-width:3.360000;stroke-opacity:1.000000" />
+
+
+<line
+x1="957.257249435704" y1="80" x2="957.257249435704" y2="110"
+id="tick"
+style="stroke:black;stroke-width:3.360000;stroke-opacity:1.000000" />
+
+
+<line
+x1="974.897249435704" y1="80" x2="974.897249435704" y2="110"
+id="tick"
+style="stroke:black;stroke-width:3.360000;stroke-opacity:1.000000" />
+
+
+<line
+x1="992.537249435704" y1="80" x2="992.537249435704" y2="110"
+id="tick"
+style="stroke:black;stroke-width:3.360000;stroke-opacity:1.000000" />
+
+
+<line
+x1="1010.1772494357" y1="80" x2="1010.1772494357" y2="110"
+id="tick"
+style="stroke:black;stroke-width:3.360000;stroke-opacity:1.000000" />
+
+
+<text
+x="1010.177249"
+y="136.000000"
+id="color.panel.max.value"
+style="font-size:24.000000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+2</text>
+
+
+<text
+x="833.777249"
+y="136.000000"
+id="color.panel.low.value"
+style="font-size:24.000000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+-2</text>
+
+
+<text
+x="921.977249"
+y="136.000000"
+id="color.panel.mid.value"
+style="font-size:24.000000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+0</text>
+
+<a xlink:href="https://cdn.rawgit.com/sbgn/process-descriptions/b2904462d11bd8d65e9c7a1318d95d468048cb50/templates/PD_L1V1.3.svg">
+
+<text
+x="921.977249"
+y="164.800000"
+id="Link to SBGN notation"
+style="font-size:24.000000px;text-anchor:middle;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="blue"
+>
+Link to SBGN notation</text>
+
+</a>
+
+
+<text x="30.000000" y="80.000000" id="pathway.name"
+style="font-size:24.000000px;text-anchor:left;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black">
+<tspan x="30.000000">Lipid particle organization</tspan>
+<tspan x="30.000000" dy="22.000000">(reactome::R-HSA-8964572)</tspan>
+</text>
+
+
+<text
+x="20.000000"
+y="940.622276"
+id="stamp"
+style="font-size:22.000000px;text-anchor:left;font-family:Arial,Helvetica;alignment-baseline:baseline;stroke.opacity:1;dominant-baseline:baseline"
+fill="black"
+>
+Rendered by SBGNview</text>
+
+
+</svg>
